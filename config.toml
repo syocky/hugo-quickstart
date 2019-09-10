@@ -1,0 +1,4 @@
+baseURL = "https://syocky-hugo-quickstart.netlify.com/"
+title = "Hugo QuickStart"
+theme = "robust"
+
